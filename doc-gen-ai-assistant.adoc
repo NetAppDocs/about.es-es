@@ -1,10 +1,10 @@
 ---
 sidebar: sidebar 
 permalink: doc-gen-ai-assistant.html 
-keywords:  
-summary: Doc es nuestro asistente generativo impulsado por IA en docs.netapp.com. Doc está diseñado para responder a preguntas sobre los productos NetApp. Por ejemplo, Doc puede responder a preguntas acerca de las funciones de eficiencia del almacenamiento de NetApp o mejores prácticas de backup y recuperación para entornos multicloud. 
+keywords: netapp, generative ai, doc 
+summary: El asistente con tecnología de IA generativa de NetApp Doc está disponible en docs.NetApp.com. Doc responde a las preguntas acerca de los productos de NetApp utilizando únicamente el contenido publicado en este sitio. Doc no utiliza contenido de otros sitios de NetApp o Internet público para responder preguntas. 
 ---
-= Términos de uso del Asistente de IA Generativa de NetApp
+= Descripción general del asistente generativo con tecnología de IA de NetApp
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -13,19 +13,7 @@ summary: Doc es nuestro asistente generativo impulsado por IA en docs.netapp.com
 
 
 [role="lead"]
-Doc es nuestro asistente generativo impulsado por IA en docs.netapp.com. Doc está diseñado para responder a preguntas sobre los productos NetApp. Por ejemplo, Doc puede responder a preguntas acerca de las funciones de eficiencia del almacenamiento de NetApp o mejores prácticas de backup y recuperación para entornos multicloud.
-
-Esta versión Beta de Doc crea contenido generado algorítmicamente que puede contener errores o imprecisiones. Todo el contenido generado se debe utilizar solo como punto de partida. Siempre debe verificar las respuestas del documento consultando la documentación oficial sobre el producto de NetApp. Cualquier confianza en las respuestas generadas por el documento es bajo su propio riesgo, y NetApp no es responsable de ningún problema o dificultad que pueda ocurrir al usar únicamente las respuestas generadas por el documento.
-
-
-
-== Condiciones
-
-Al usar Doc, usted acepta cumplir con las siguientes reglas y estipulaciones al generar contenido y respuestas. El incumplimiento de estos términos puede resultar en el bloqueo del uso de Doc.
-
-* No intente usar Doc para producir contenido que pueda causar daño, abuso, violencia o engaño.
-* No intente involucrar al documento en conversaciones que estén fuera del alcance de su propósito previsto o para obtener respuestas a preguntas que no estén relacionadas con los productos de NetApp.
-
+El asistente generativo de IA impulsado por NetApp, «Doc», está disponible en docs.NetApp.com. Doc responde a las preguntas acerca de los productos de NetApp utilizando únicamente el contenido publicado en este sitio. Doc no utiliza contenido de otros sitios de NetApp o Internet público para responder preguntas.
 
 
 
@@ -53,8 +41,10 @@ Doc comparte información sobre cómo genera sus respuestas, lo que le brinda la
 
 == Limitaciones
 
+* Doc solo utiliza contenido publicado en docs.NetApp.com para generar respuestas. Doc no genera respuestas a partir de contenido publicado en otros sitios web de NetApp.
+* Durante la versión beta, el documento no hace referencia a toda la documentación de todos los productos de NetApp. Doc solo hace referencia a un subconjunto de documentación, que incluye, entre otros, documentos de ONTAP, BlueXP , StorageGRID, Keystone y SnapCenter para ayudar a generar respuestas. Si estás buscando información que Doc no conoce, mailto:ng-doccoments@NetApp.com.
 * Si un producto de NetApp tiene varias versiones de documentación, Doc solo hace referencia a la última versión que ayuda a generar respuestas.
-* Durante la versión beta, el documento no hace referencia a toda la documentación de todos los productos de NetApp. Doc solo se refiere a un subconjunto de documentación, que incluye, entre otros, documentos de ONTAP y BlueXP , que ayudan a generar respuestas.
+* Doc no se refiere a la página en la que está para hacer suposiciones sobre el producto en el que está interesado, sea lo más específico posible con sus preguntas, mencionando los nombres y versiones de los productos.
 * Aunque el documento puede proporcionar respuestas en otros idiomas, el documento no ha leído las versiones de documentos de productos de NetApp que no están en inglés. Para asegurarse de que tiene la información más precisa posible, verifique siempre las respuestas del documento en inglés.
 
 
