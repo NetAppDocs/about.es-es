@@ -31,4 +31,4 @@ Al usar Doc, usted acepta cumplir con las siguientes reglas y estipulaciones al 
 
 == Comentarios
 
-Estamos trabajando para mejorar continuamente Doc. Envíenos sus comentarios dentro de la ventana de chat de Doc. Háganos saber si las respuestas de Doc son precisas y útiles o si están incompletas o de alguna manera insuficientes. También puede enviar por correo:ng-doccoments@netapp.com[contacto] si tiene alguna pregunta o inquietud con respecto a las capacidades o respuestas del Doc.
+Estamos trabajando para mejorar continuamente Doc. Envíenos sus comentarios dentro de la ventana de chat de Doc. Háganos saber si las respuestas de Doc son precisas y útiles o si están incompletas o de alguna manera insuficientes. También puede enviar por correo:ng-doccomments@NetApp.com[contacte con nosotros] si tiene alguna pregunta o inquietud con respecto a las capacidades o respuestas del documento.
